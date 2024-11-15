@@ -1,9 +1,9 @@
 # template
 # Generic Template for Python Application
 
-This collection of scripts can be used to build and configure Microsoft Windows os types to any specification that is required.
+This is a template for a python application please update the details here.
 
-The scripts themselves are parameterized with help examples in the scripts.
+
 
 ## Getting Started
 

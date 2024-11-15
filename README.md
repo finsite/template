@@ -44,8 +44,8 @@ Please feel free to comment and if you see opportunities for improvement I welco
 
 ## Authors
 
-* **Mark Quinn** - *Initial work* - [Mobious999](https://github.com/mobious999)
-* **Jason Qualkenbush** - *Initial work* - [jasonqualkenbush](https://github.com/jasonqualkenbush)
+* **Mark Quinn** - - [Mobious999](https://github.com/mobious999)
+* **Jason Qualkenbush** - - [jasonqualkenbush](https://github.com/jasonqualkenbush)
 
 ## License
 
